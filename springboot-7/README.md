@@ -1,0 +1,1 @@
+java -jar springboot-7-1.0-SNAPSHOT.jar --spring.profiles.active=test

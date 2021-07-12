@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/springboot-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-10/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-6/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-7/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-9/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

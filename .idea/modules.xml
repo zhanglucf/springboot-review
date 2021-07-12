@@ -3,7 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springboot-1/springboot-1.iml" filepath="$PROJECT_DIR$/springboot-1/springboot-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-10/springboot-10.iml" filepath="$PROJECT_DIR$/springboot-10/springboot-10.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-2/springboot-2.iml" filepath="$PROJECT_DIR$/springboot-2/springboot-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-3/springboot-3.iml" filepath="$PROJECT_DIR$/springboot-3/springboot-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-4/springboot-4.iml" filepath="$PROJECT_DIR$/springboot-4/springboot-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-5/springboot-5.iml" filepath="$PROJECT_DIR$/springboot-5/springboot-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-6/springboot-6.iml" filepath="$PROJECT_DIR$/springboot-6/springboot-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-7/springboot-7.iml" filepath="$PROJECT_DIR$/springboot-7/springboot-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-8/springboot-8.iml" filepath="$PROJECT_DIR$/springboot-8/springboot-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-9/springboot-9.iml" filepath="$PROJECT_DIR$/springboot-9/springboot-9.iml" />
     </modules>
   </component>
 </project>

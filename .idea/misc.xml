@@ -5,10 +5,18 @@
       <list>
         <option value="$PROJECT_DIR$/springboot-1/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-2/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-3/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-4/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-5/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-6/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-7/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-8/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-9/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-10/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

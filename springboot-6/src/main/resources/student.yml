@@ -1,0 +1,27 @@
+server:
+  port: 8082
+stu:
+  id: 1
+  student-name: 张三
+  birth: 2021/07/11
+#绑定Map<String,Cat>
+  cat-map:
+    a1:
+      age: 1
+      name: 咪咪
+    a2:
+      age: 1
+      name: 喵喵
+#绑定对象列表
+  dogs:
+    - id: 1
+      name: 阿黄
+#绑定字符串列表
+  strList:
+    - aa
+    - bb
+    - cc
+#绑定Map<String,String>
+  strMap:
+    k1: uu
+    k2: ii

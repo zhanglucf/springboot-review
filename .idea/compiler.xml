@@ -6,18 +6,36 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot-1" />
+        <module name="springboot-3" />
         <module name="springboot-2" />
+        <module name="springboot-1" />
+        <module name="springboot-10" />
+        <module name="springboot-9" />
+        <module name="springboot-8" />
+        <module name="springboot-7" />
+        <module name="springboot-6" />
+        <module name="springboot-5" />
+        <module name="springboot-4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springboot-1" target="1.6" />
+      <module name="springboot-10" target="1.6" />
       <module name="springboot-2" target="1.8" />
+      <module name="springboot-3" target="1.8" />
+      <module name="springboot-4" target="1.8" />
+      <module name="springboot-5" target="1.6" />
+      <module name="springboot-6" target="1.6" />
+      <module name="springboot-7" target="1.6" />
+      <module name="springboot-8" target="1.6" />
+      <module name="springboot-9" target="1.6" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="springboot-2" options="" />
+      <module name="springboot-3" options="-parameters" />
+      <module name="springboot-4" options="-parameters" />
     </option>
   </component>
 </project>
